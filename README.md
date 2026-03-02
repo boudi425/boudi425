@@ -1,8 +1,8 @@
 # 🎇 About Me:
--Hi there! My Name is Abdelrahaman. Currently a front-end developer, but Learning Backend to be a full-stack developer soon!
--I can build any project you like that matches my skills.
--I am mostly free at the weekend and work also on normal days.
--You can text me at my social links in my bio if you have any ideas you want to come to life!.
+- Hi there! My Name is Abdelrahaman. Currently a front-end developer, but Learning Backend to be a full-stack developer soon!
+- I can build any project you like that matches my skills.
+- I am mostly free at the weekend and work also on normal days.
+- You can text me at my social links in my bio if you have any ideas you want to come to life!.
 *سبحان الله و بحمده, سبحان الله العظيم*
 
 # 💻 Tech Stack:
